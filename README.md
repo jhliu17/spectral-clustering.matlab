@@ -1,4 +1,4 @@
-# Spectral-Clustering-MATLAB
+# Spectral Clustering MATLAB
 **Author: Liu Jun-hao (South China University of Technology)**
 
 An easy implementation of Spectral Clustering with MATLAB
