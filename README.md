@@ -2,6 +2,8 @@
 **Author: Liu Jun-hao (South China University of Technology)**
 
 An easy implementation of Spectral Clustering with MATLAB
+![](img/intro.png)
+
 
 ## Getting Started
 Clone this repo and run `main.m` to see the Demo
