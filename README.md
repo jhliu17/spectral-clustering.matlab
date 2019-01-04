@@ -3,6 +3,7 @@
 
 An easy implementation of Spectral Clustering with MATLAB
 ![](img/intro.png)
+<img src=img/intro.png width = "75" height = "75" div align=center />
 
 
 ## Getting Started
