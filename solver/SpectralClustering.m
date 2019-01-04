@@ -14,14 +14,7 @@ function [C, L, U, value] = SpectralClustering(W, k, Type, num)
 %      2 - Normalized according to Shi and Malik (2000)
 %      3 - Normalized according to Jordan and Weiss (2002)
 %
-%   References:
-%   - Ulrike von Luxburg, "A Tutorial on Spectral Clustering", 
-%     Statistics and Computing 17 (4), 2007
-%
-%   Author: Ingo Buerk
-%   Year  : 2011/2012
-%   Bachelor Thesis
-% calculate degree matrix
+
 if nargin < 4
     num = 0;
 end
