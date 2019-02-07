@@ -8,5 +8,5 @@ An easy implementation of Spectral Clustering with MATLAB
 ## Getting Started
 Clone this repo and run `main.m` to see the Demo
 
-## TO-DO
+## To-do
 Complete the modification of the function default parameters
