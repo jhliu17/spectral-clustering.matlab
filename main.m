@@ -21,7 +21,7 @@ W = fullyconnected(X, 1, 'laplacian');
 [C, L, U] = SpectralClustering(W, size(unique(y), 1), 2);
 rng(568);
 options.MaxIter = 8000;
-Y = tsne(X,'Algorithm','barneshut','NumPCAComponents', 4,'Options', options);
+Y = tsne(X, 'Algorithm', 'barneshut', 'NumPCAComponents', 4,'Options', options);
 
 figure
 gscatter(Y(:,1), Y(:,2), y);

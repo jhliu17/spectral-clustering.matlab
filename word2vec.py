@@ -1,7 +1,4 @@
-# import gensim
-# from nltk.tokenize import word_tokenize
 import numpy as np 
-# import pandas as pd 
 import os
 import re
 
