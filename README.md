@@ -1,7 +1,7 @@
 # Spectral Clustering MATLAB
-This is an intuitive implementation of Spectral Clustering with MATLAB. You can easily finish a spectral clustering analysis using Scikit-Learn similar API (the comparison between spectral clutsering and others is [here](https://scikit-learn.org/stable/modules/clustering.html#overview-of-clustering-methods)). For more deatils about spectiral clustering, you can read the references below or [a brief introduction](https://jhliu17.github.io/codes/spectral_clustering_slide.pdf) written by us. (GPU accelarated version will be coming soon...)
+<img src=img/intro.png width = "80%" height = "80%"/>
 
-<img src=img/intro.png width = "75%" height = "75%" align=center />
+This is an intuitive implementation of Spectral Clustering with MATLAB. You can easily finish a spectral clustering analysis using Scikit-Learn similar API (the comparison between spectral clutsering and others is [here](https://scikit-learn.org/stable/modules/clustering.html#overview-of-clustering-methods)). For more deatils about spectiral clustering, you can read the references below or [a brief introduction](https://jhliu17.github.io/codes/spectral_clustering_slide.pdf) written by us. (GPU accelarated version will be coming soon...)
 
 ## Getting Started
 1. Clone this repo and run `main.m` to see the demo
