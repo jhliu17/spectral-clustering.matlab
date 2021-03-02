@@ -33,8 +33,8 @@ This is an intuitive implementation of Spectral Clustering with MATLAB. You can 
 ## Contributors
 
 - Junhao Liu, SCUT
-- jinlai Nin, SCUT
-- dedong Huang, SCUT
+- Jinlai Nin, SCUT
+- Dedong Huang, SCUT
 - Hao Wen, SCUT
 
 
