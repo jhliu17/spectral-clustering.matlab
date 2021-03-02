@@ -1,4 +1,4 @@
-# Spectral Clustering MATLAB
+# Spectral Clustering with MatLab
 
 <img src=img/intro.png width = "80%" height = "80%"/>
 
