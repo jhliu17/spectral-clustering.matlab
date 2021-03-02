@@ -11,19 +11,25 @@ This is an intuitive implementation of Spectral Clustering with MATLAB. You can 
 2. Usage Details
 - **Specify your data matrix X and label vector y, or get the built-in data**
 
-    ``` [X, y] =  make_digits_dataset(300, true, false); % 300 examples, balance, no shuffle```
+    ``` 
+    [X, y] =  make_digits_dataset(300, true, false); % 300 examples, balance, no shuffle
+    ```
 
     In this project, we provide 6 datasets including 3 toys and 3 real datasets. You can find them in `datasets`.
 
 - **Construct your graph**
 
-    ```W = fullyconnected(X, 7.8, 'rbf');```
+    ```
+    W = fullyconnected(X, 7.8, 'rbf');
+    ```
 
     There havs 3 types of graph you can use. Find them in `graph`.
 
 - **Run the Spectral Clustering Solver**
 
-    ```[C, ~] = SpectralClustering(W, size(unique(y), 1), 2);```
+    ```
+    [C, ~] = SpectralClustering(W, size(unique(y), 1), 2);
+    ```
 
     C is the predicted clusters.
 
